@@ -1,0 +1,5 @@
+Given the following question provided by a user, generate up to 20 sets of search terms, one set per line. On each line, you must have 1 to 4 words that must all be present in a document for it to be considered relevant.
+
+Here is the user's question: {query}
+
+Now output each set of search terms on a separate line, just the words separated by spaces. Nothing else.

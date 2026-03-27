@@ -1,0 +1,8 @@
+Based on the following documents, please answer the user's question.
+
+USER'S QUESTION: {query}
+
+TEXT FROM RELEVANT DOCUMENTS:
+{documents}
+
+Please provide a concise answer based only on the documents above.
